@@ -1,20 +1,19 @@
 
  <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
  
-### <h1>Hi there 👋 I am Patricio Gómez</h1>
+### <h1>Hi there 👋 I am JakaNin</h1>
 
-> I am Sr fullStack developer & Tech Lead
+> I am fullStack developer 🍊
 <br />
 
 <!--- 🌱 &nbsp;I'm currently studying for Bsc. (Hons.) in IT at University of Moratuwa-->
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-- 📫 How to reach me **isc.patricio@gmail.com**
-- 📝 I studied at Tecnológico Nacional de México
-- 💬 Ask me about: anything, I am happy to help
+<!--- - :computer: &nbsp;Connect with me on **[]**-->
+
+- 📫 How to reach me **jin.nakamura@vitalize.co.jp**
 - 	<img src="https://komarev.com/ghpvc/?username=JakaNin&label=Profile%20views&color=brightgreen&style=plastic" alt="patricio's profile views" /> 
 	<a href="https://github.com/JakaNin?tab=followers"><img src="https://img.shields.io/github/followers/JakaNin?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br>
-
+<!---
 ## 💻 Technologies 
 
 <div>
@@ -76,9 +75,10 @@
 
 
 <br><br>
+-->
 
 ## 🚥 Activity
-
+<!---
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
 </p>
@@ -89,8 +89,9 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=JakaNin&show_icons=true&locale=en&theme=chartreuse-dark" alt="JakaNin" width="410"/>
 </p>
 
-<br><br><br><br><br><br><br><br>
 
+<br><br><br><br><br><br><br><br>
+-->
 ![Patricio's Graph](https://github-readme-activity-graph.vercel.app/graph?username=JakaNin&custom_title=Patricio's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 <p align="center">
@@ -106,17 +107,18 @@
 </p>
 
 
-
+<!---
 <p align="center">
   <img  src="https://raw.githubusercontent.com/JakaNin/JakaNin/main/resources/img/github-contribution-grid-snake.svg"
     alt="JakaNin" />
 </p>
-
+-->
 
 <br>
 
+<!---
 ## 😎 Connect with me
-<p align="left">
+<p align="lef?t">
   
 <a href="https://linkedin.com/in/patricio-gomez" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="JakaNin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9591889/patricio" target="blank"><img align="center" src="https://www.svgrepo.com/show/475686/stackoverflow-color.svg" alt="patricio" height="30" width="40" /></a>
@@ -125,7 +127,5 @@
 <a href="https://github.com/JakaNin" target="blank"> <img align="center" alt="https://github.com/JakaNin" src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
 </p>
 <br>
+-->
 
-<br>
-
-Credit:[JakaNin](https://github.com/JakaNin) Last Edit on 19/04/2024
