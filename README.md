@@ -10,7 +10,7 @@
 <!--- - :computer: &nbsp;Connect with me on **[]**-->
 
 - 📫 How to reach me **jin.nakamura@vitalize.co.jp**
-- 	<img src="https://komarev.com/ghpvc/?username=JakaNin&label=Profile%20views&color=brightgreen&style=plastic" alt="patricio's profile views" /> 
+- 	<img src="https://komarev.com/ghpvc/?username=JakaNin&label=Profile%20views&color=brightgreen&style=plastic" alt="JakaNin's profile views" /> 
 	<a href="https://github.com/JakaNin?tab=followers"><img src="https://img.shields.io/github/followers/JakaNin?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br>
 <!---
@@ -92,7 +92,7 @@
 
 <br><br><br><br><br><br><br><br>
 -->
-![Patricio's Graph](https://github-readme-activity-graph.vercel.app/graph?username=JakaNin&custom_title=Patricio's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![JakaNin's Graph](https://github-readme-activity-graph.vercel.app/graph?username=JakaNin&custom_title=JakaNin's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 <p align="center">
  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies
