@@ -76,9 +76,6 @@
 
 <br><br>
 -->
-## ✨ Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JakaNin)](https://git.io/streak-stats)
 
 ## 🚥 Activity
 <!---
