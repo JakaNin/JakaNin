@@ -9,7 +9,7 @@
 <!--- 🌱 &nbsp;I'm currently studying for Bsc. (Hons.) in IT at University of Moratuwa-->
 <!--- - :computer: &nbsp;Connect with me on **[]**-->
 
-- 📫 How to reach me **jin.nakamura@vitalize.co.jp**
+- 📫 How to reach me **gene58pf@gmail.com**
 - 	<img src="https://komarev.com/ghpvc/?username=JakaNin&label=Profile%20views&color=brightgreen&style=plastic" alt="JakaNin's profile views" /> 
 	<a href="https://github.com/JakaNin?tab=followers"><img src="https://img.shields.io/github/followers/JakaNin?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br>
