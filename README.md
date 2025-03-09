@@ -3,7 +3,7 @@
  
 ### <h1>Hi there 👋 I am JakaNin</h1>
 
-> I am fullStack developer 🍊
+> I am software developer in Wakayama 🍊
 <br />
 
 <!--- 🌱 &nbsp;I'm currently studying for Bsc. (Hons.) in IT at University of Moratuwa-->
